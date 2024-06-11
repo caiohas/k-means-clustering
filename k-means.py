@@ -109,6 +109,7 @@ plt.show()
 
 
 # %%
+# Utilizando o método K-Means
 # Vamos considerar 3 clusters, considerando as evidências anteriores!
 
 kmeans_final = KMeans(n_clusters = 3, init = 'random', random_state=100).fit(cluster)
