@@ -9,4 +9,6 @@ Bem-vindo ao repositório de clusterização utilizando o algoritmo KNN (K-Neare
 - Visualização dos clusters gerados.
 - Suporte para ajuste do parâmetro k (número de vizinhos).
 
+## 🐍 Linguagem Utilizada: Python
+
    
