@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório de clusterização utilizando o algoritmo KNN (K-Nearest Neighbors). Este projeto tem como objetivo demonstrar como aplicar o KNN para a tarefa de clusterização de dados de cartões de crédito. O projeto é realizado utilizando a linguagem Python e conceitos de estatística.
 
-## Objetivos 
+## 🎯 Objetivos 
 
 - Aplicação do KNN para clusterização.
 - Análise de desempenho e avaliação dos clusters.
